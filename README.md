@@ -105,23 +105,8 @@ I am an Enterprise Full Stack Developer with **7+ years of experience** shipping
 
 ---
 
-### 📂 Public Repositories & Highlights
-*Explore some of the public repositories and tools hosted directly on this account:*
 
-#### 🛠️ [Insert Your Best Personal Project Name Here]
-> A clean one-sentence summary of what this specific project does.
-*   **Tech Stack:** [e.g., React.js, Tailwind CSS]
-*   [📂 Explore Code](https://github.com/rgupta265/your-repo-name) &bull; [🚀 Live Demo](https://your-deployed-link.com)
-
----
-
-### 📊 GitHub Statistics
-
-| System Metrics | Focus Dial |
-| :---: | :---: |
-| ![Rupak's Stats](https://github-readme-stats.vercel.app/api?username=rgupta265&show_icons=true&theme=dark&hide_border=true) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rgupta265&layout=compact&theme=dark&hide_border=true) |
-
-> 🔒 **Engineering Note:** My core daily enterprise production contributions occur inside closed, isolated corporate GitLab installations requiring VPN security clearance. The public telemetry space below details open-source utilities, automation configurations, and personal code architecture.
+ 🔒 **Engineering Note:** My core daily enterprise production contributions occur inside closed, isolated corporate GitLab installations requiring VPN security clearance. The public telemetry space below details open-source utilities, automation configurations, and personal code architecture.
 
 ---
 
