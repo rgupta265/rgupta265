@@ -7,11 +7,11 @@
 ---
 
 ### ⚡ Professional Summary
-I am an Enterprise Full Stack Developer specializing in **Laravel, PHP, React.js, Next.js, and Vue.js**[cite: 2]. I have a proven track record of shipping production SaaS across construction, HVAC, e-commerce, and HR-tech sectors[cite: 2].
+I am an Enterprise Full Stack Developer specializing in **Laravel, PHP, React.js, Next.js, and Vue.js**[cite: 2]. I have a proven track record of shipping production SaaS across construction, HVAC, e-commerce, and HR-tech sectors.
 
-*   **Performance Optimization:** Slashed API response times by 20–30% using Cloquent query tuning, Redis caching, and Laravel Queues[cite: 2].
-*   **Security & Gateways:** Deep expertise in OAuth2/SAML2 SSO, Google 2FA, Spatie RBAC, and integrating key payment processors (Stripe, Razorpay, Authorize.net)[cite: 2].
-*   **AI-Augmented Workflows:** Heavily leverage tools like Cursor AI, Claude Code, GitHub Copilot, and Gemini to accelerate enterprise feature delivery[cite: 2].
+*   **Performance Optimization:** Slashed API response times by 20–30% using Cloquent query tuning, Redis caching, and Laravel Queues.
+*   **Security & Gateways:** Deep expertise in OAuth2/SAML2 SSO, Google 2FA, Spatie RBAC, and integrating key payment processors (Stripe, Razorpay, Authorize.net).
+*   **AI-Augmented Workflows:** Heavily leverage tools like Cursor AI, Claude Code, GitHub Copilot, and Gemini to accelerate enterprise feature delivery.
 
 ---
 
@@ -26,18 +26,18 @@ I am an Enterprise Full Stack Developer specializing in **Laravel, PHP, React.js
 ---
 
 ### 🏢 Enterprise Experience Case Studies
-*Note: Enterprise codebases are hosted on isolated corporate GitLab instances accessible strictly via secure company VPN[cite: 2]. Public-facing production landing pages are referenced below.*
+*Note: Enterprise codebases are hosted on isolated corporate GitLab instances accessible strictly via secure company VPN. Public-facing production landing pages are referenced below.*
 
 #### 🌐 [PlanningForProfit](https://app.planningforprofit.com/login)
-*   **Tech Stack:** Laravel 8, Vue 2, MySQL, Stripe, Vuex, Bootstrap Vue[cite: 2]
+*   **Tech Stack:** Laravel 8, Vue 2, MySQL, Stripe, Vuex, Bootstrap Vue
 *   **Impact:** Engineered the full digital sales proposal lifecycle—including multi-tier dynamic pricing (Good/Better/Best), automated PDF generation, transactional email workflows, and digital e-signature modules with OTP verification[cite: 2].
 
 #### 🌐 [Construction Intelligence Cloud (Pronovos)](https://app.pronovos.com/login)
-*   **Tech Stack:** PHP 8.3, Laravel 12, MS SQL Server, Eloquent ORM, OAuth2/SAML2 SSO, Spatie Permissions[cite: 2]
+*   **Tech Stack:** PHP 8.3, Laravel 12, MS SQL Server, Eloquent ORM, OAuth2/SAML2 SSO, Spatie Permissions
 *   **Impact:** Delivered the end-to-end Facilities Management module (work order lifecycles, quote pipelines) and the Change Order Request (COR) system featuring dynamic tax calculations and inline editing matrix setups[cite: 2].
 
 #### 🌐 [Resai - AI Resume Builder](https://resai.co/en/home)
-*   **Tech Stack:** React.js, Next.js, Tailwind CSS, Material UI, PostgreSQL, Razorpay[cite: 2]
+*   **Tech Stack:** React.js, Next.js, Tailwind CSS, Material UI, PostgreSQL, Razorpay
 *   **Impact:** Built the complete responsive frontend architecture, bilingual localized toggles (English/Hindi), and routing logic managing multi-app context boundaries[cite: 2].
 
 #### 🌐 [Hall Constructor - Ticketing System](https://hallticketing.com/account/login)
@@ -45,24 +45,15 @@ I am an Enterprise Full Stack Developer specializing in **Laravel, PHP, React.js
 *   **Impact:** Developed user-friendly, role-specific access panels for Brokers, Foremen, Vendors, and Administrators to manage daily ticket punching and track activities[cite: 2].
 
 #### 🌐 [24HourDigitizing](https://www.24hourdigitizing.com/)
-*   **Tech Stack:** Next.js, TypeScript, Sequelize, MySQL, Authorize.net[cite: 2]
+*   **Tech Stack:** Next.js, TypeScript, Sequelize, MySQL, Authorize.net
 *   **Impact:** Built role-isolated dashboards for Customers, Vendors, and Admins alongside complex recurring billing subscription models through Authorize.net[cite: 2].
 
 #### 🌐 [Naukriyan.com](http://naukriyan.com)
-*   **Tech Stack:** Laravel, Vue.js, CodeIgniter, WordPress, MySQL[cite: 2]
+*   **Tech Stack:** Laravel, Vue.js, CodeIgniter, WordPress, MySQL
 *   **Impact:** Established an advanced multi-step corporate and e-governance hiring workflow, featuring custom employer questionnaires, dedicated account panels, and consultant commission tracking[cite: 2].
 
 ---
 
-### 📂 Personal Work & Repositories
-*Check out some of the public code repositories hosted right here on my personal account:*
-
-#### 🛠️ [Insert Your Best Personal Project Name Here]
-> A clean one-sentence summary of what this specific project does.
-*   **Tech Stack:** [e.g., React.js, Tailwind CSS]
-*   [📂 Explore Code](https://github.com/rgupta265/your-repo-name) &bull; [🚀 Live Demo](https://your-deployed-link.com)
-
----
 
 ### 📊 GitHub Statistics
 
