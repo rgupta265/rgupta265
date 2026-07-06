@@ -104,7 +104,26 @@ I am an Enterprise Full Stack Developer with **7+ years of experience** shipping
     *   **Recruitment Trackers:** Programmed multi-phase onboarding workflows (from application to placement) allowing document attachments at each stage of candidate review.
 
 ---
+### 📜 Certifications & Professional Training
 
+#### 🎓 [AI Fundamentals](https://www.coursera.org/)
+> **Google (via Coursera)**  
+> Foundations of AI/ML concepts applied to complex production engineering workflows.
+
+#### 🎓 [AI Tools Workshop](https://certx.in/certificate/0270772f-3809-4400-b29b-1e1c61cd09971455604)
+> **be10x**  
+> Professional workshop training covering prompt engineering, AI productivity integrations, and generative engineering setups.  
+> &raquo; [*Verify Official Certificate*](https://certx.in/certificate/0270772f-3809-4400-b29b-1e1c61cd09971455604)
+
+#### 🎓 School Management System
+> **MR Learning **  
+> Intensive 3-month professional training project implementing Core PHP, MySQL, MVC architecture patterns, and custom relational database designs.
+
+#### 🎓 Android, Firebase & SQL
+> **Internal Corporate Training**  
+> Core training specializing in mobile-adjacent data architectures and cloud storage fundamentals.
+
+---
 
  🔒 **Engineering Note:** My core daily enterprise production contributions occur inside closed, isolated corporate GitLab installations requiring VPN security clearance. The public telemetry space below details open-source utilities, automation configurations, and personal code architecture.
 
